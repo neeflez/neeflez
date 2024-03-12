@@ -1,5 +1,22 @@
-### Hi there 👋
+### Hi there 👋 I'm Miłosz
+I'm a ABAP developer at Jagiellonian University. Currently studying at AGH.
 
+🛠 Skills
+Language: ABAP, C#, JavaScript
+Framework: UI5
+DB: MySQL
+
+
+🌱 I am currently learning React and .NET by developing applications for managing 3D printers 🖨️
+
+🍾 Main Projects:
+- [Mugen](https://github.com/neeflez/Mugen)
+
+- [Mosu Controllers](https://www.youtube.com/@mosucontrollers7685)
+
+📫 How to reach me:
+- nflzpl@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/mi%C5%82osz-polinceusz/)
 <!--
 **neeflez/neeflez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
