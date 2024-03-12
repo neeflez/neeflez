@@ -2,7 +2,7 @@
 I'm a ABAP developer at Jagiellonian University. Currently studying at AGH.
 
 ### 🛠 Skills <br>
- Language: ABAP, C#, JavaScript <br>
+ Language: ABAP, C#, JavaScript, python <br>
  Framework: UI5 <br>
  DB: MySQL
 
