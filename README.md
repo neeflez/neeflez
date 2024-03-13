@@ -11,7 +11,6 @@ React and .NET by developing applications for managing 3D printers 🖨️
 
 ### 🍾 Main Projects:
 - [Mugen](https://github.com/neeflez/Mugen)
-
 - [Mosu Controllers](https://www.youtube.com/@mosucontrollers7685)
 
 ### 📫 How to reach me:
