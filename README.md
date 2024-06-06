@@ -1,10 +1,10 @@
 ### Hi there 👋 I'm Miłosz
-I'm a ABAP developer at Jagiellonian University. Currently studying at AGH.
+I'm an ABAP/UI5 developer at Jagiellonian University. Currently studying at AGH.
 
 ### 🛠 Skills <br>
  Language: ABAP, C#, JavaScript, python <br>
- Framework: UI5 <br>
- DB: MySQL
+ Framework: UI5, React <br>
+ DB: MySQL, db2
 
 ### 🌱 I am currently learning:
 React and .NET by developing applications for managing 3D printers 🖨️
