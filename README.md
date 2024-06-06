@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Miłosz
-I'm an ABAP/UI5 developer at Jagiellonian University. Currently studying at AGH.
+ABAP/UI5 developer at Jagiellonian University. Currently studying at AGH.
 
 ### 🛠 Skills <br>
  Language: ABAP, C#, JavaScript, python <br>
