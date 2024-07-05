@@ -3,7 +3,7 @@ ABAP/UI5 developer at Jagiellonian University. Currently studying at AGH.
 
 ### 🛠 Skills <br>
  Language: ABAP, C#, JavaScript, python <br>
- Framework: UI5, React <br>
+ Framework: UI5, React <br> 
  DB: MySQL
 
 ### 🌱 I am currently learning:
