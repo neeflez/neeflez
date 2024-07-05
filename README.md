@@ -16,6 +16,8 @@ React and .NET by developing applications for managing 3D printers 🖨️
 ### 📫 How to reach me:
 - milosz.polinceusz@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/mi%C5%82osz-polinceusz/)
+<br>
+<small>Yes. This is my cat in the profile picture.</small>
 <!--
 **neeflez/neeflez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
