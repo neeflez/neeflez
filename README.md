@@ -14,7 +14,7 @@ React and .NET by developing applications for managing 3D printers 🖨️
 - [Mosu Controllers](https://www.youtube.com/@mosucontrollers7685) 
 
 ### 📫 How to reach me:
-- nflzpl@gmail.com
+- milosz.polinceusz@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/mi%C5%82osz-polinceusz/)
 <!--
 **neeflez/neeflez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
