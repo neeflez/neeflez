@@ -7,7 +7,7 @@ ABAP/UI5 developer at Jagiellonian University. Currently studying at AGH.
  DB: MySQL
 
 ### 🌱 I am currently learning:
-React and .NET by developing applications for managing 3D printers 🖨️
+React and .NET by developing applications for managing 3D printers 🖨️ 
 
 ### 🍾 Main Projects:
 - [Mugen](https://github.com/neeflez/Mugen)
