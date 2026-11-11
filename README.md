@@ -2,7 +2,7 @@
 
 **SAP Consultant at E.ON Polska** · ABAP OO · SAP UI5 / Fiori · AI agent orchestration
 
-I build and maintain in-house SAP solutions for one of Europe's largest energy companies, and I design AI-driven software: multi-agent systems, local LLM setups and custom tools for businesses. Fluent in the newest AI tooling, grounded in deep SAP and UI5 expertise.
+I build and maintain in-house SAP solutions and I design AI-driven software: multi-agent systems, local LLM setups and custom tools for businesses. Fluent in the newest AI tooling, grounded in deep SAP and UI5 expertise.
 
 ### What I do
 
@@ -17,7 +17,7 @@ I design systems where different models get different jobs and check each other'
 I run MoE models (Qwen) on my own AMD RX 7800 XT with Strata: quantisation, VRAM tuning, and coding agents pointed at the local endpoint.
 
 **Custom solutions for clients**
-Together with my friend [Muzykk](https://github.com/Muzykk) I build advanced projects for individual clients: online stores (one is launching soon), a remote management platform for 3D printers that is now in commercial use (Django, Channels, Celery, React and an on-device agent), websites for local businesses (Astro, Blender 3D renders, Cloudflare Pages), and bespoke tools. One example: AI agents that take a voice command on Discord and ship the change to a client's website through a pull request.
+Together with my friend [Muzykk](https://github.com/Muzykk) I build advanced projects for individual clients: online stores, a remote management platform for 3D printers that is now in commercial use (Django, Channels, Celery, React and an on-device agent) and websites for local businesses (Astro, Blender 3D renders, Cloudflare Pages).
 
 **Markets**
 I follow the Warsaw Stock Exchange (GPW) and the US market, and build my own research and backtesting tools.
